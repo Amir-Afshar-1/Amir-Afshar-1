@@ -1,7 +1,9 @@
-## Amir Afshar  &nbsp;&nbsp;&nbsp;                                                                                                  [![Personal Website](https://img.shields.io/badge/-amir--afshar.com-0070C0?style=flat&link=https://amir-afshar.com/)](https://amir-afshar.com/)  [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/amir--afshar/)         [![Gmail](https://img.shields.io/badge/-green?label=Gmail&style=social&logo=Gmail)](mailto:amirafshar174@gmail.com)   [![GitHub](https://img.shields.io/badge/-green?label=GitHub&style=social&logo=Github)](https://github.com/amir-afshar-1)     [![Twitter Badge](https://img.shields.io/badge/-1da1f2?label=Twitter&style=social&logo=twitter&link=https://twitter.com/Mostafa_MR_)](https://twitter.com/Mostafa_MR_)
+## Amir Afshar  &nbsp;&nbsp;&nbsp;                                                                                                  [![Personal Website](https://img.shields.io/badge/-amir--afshar.com-0070C0?style=flat&link=https://amir-afshar.com/)](https://amir-afshar.com/)  [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/amir--afshar/)         [![Gmail](https://img.shields.io/badge/-green?label=Gmail&style=social&logo=Gmail)](mailto:amirafshar174@gmail.com)   [![GitHub](https://img.shields.io/badge/-green?label=GitHub&style=social&logo=Github)](https://github.com/amir-afshar-1)    
+
+
  <!--
 
-
+ [![Twitter Badge](https://img.shields.io/badge/-1da1f2?label=Twitter&style=social&logo=twitter&link=https://twitter.com/Mostafa_MR_)](https://twitter.com/Mostafa_MR_)
  
  
 
